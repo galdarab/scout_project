@@ -14,3 +14,4 @@ Overall, the code provides a basic structure for managing a football team, allow
 
 A UML link is attached here:
 https://lucid.app/lucidchart/invitations/accept/inv_d965cf3b-3a94-4823-b135-53e3d76c9fa2
+![image](https://github.com/galdarab/scout_project/assets/166126172/707fa572-35a6-4fa6-a3af-0c64db3d7de6)
