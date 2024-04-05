@@ -1,5 +1,5 @@
 # scout_project
-he provided code defines a system for managing a football team called Milan. Here's a general explanation of what the code does:
+the provided code defines a system for managing a football team called Milan. Here's a general explanation of what the code does:
 
 Player Class: This class represents a football player. It has attributes such as name, age, position, and local league. It provides methods to get and set these attributes and overrides the toString() method to provide a string representation of the player's details.
 
